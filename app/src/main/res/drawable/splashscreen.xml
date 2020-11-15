@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:name="android:windowBackground"
+        tools:ignore="ExtraText">@color/colorPrimary</item>
+    <item>
+        <bitmap android:src="@mipmap/ic_launcher"
+            android:gravity="center"/>
+    </item>
+</layer-list>

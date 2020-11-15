@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231300961094",
+    "firebase_url": "https://login-405f7.firebaseio.com",
+    "project_id": "login-405f7",
+    "storage_bucket": "login-405f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231300961094:android:eff1f73f8fe5b8a9e18b47",
+        "android_client_info": {
+          "package_name": "com.camilo.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231300961094-g65tdgthfkc9gfi4jvrqqesinvvggp26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3PA-0Q6KufTCPPjtrp-ghsfl8dWYMiOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231300961094-g65tdgthfkc9gfi4jvrqqesinvvggp26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
